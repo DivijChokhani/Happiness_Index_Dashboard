@@ -4,7 +4,7 @@ import os
 import plotly.express as px
 
 # Load data files
-file_paths = ["C:\\Users\\Nivedita\\Downloads\\2015.csv", "C:\\Users\\Nivedita\\Downloads\\2016.csv", "C:\\Users\\Nivedita\\Downloads\\2017.csv", "C:\\Users\\Nivedita\\Downloads\\2018.csv", "C:\\Users\\Nivedita\\Downloads\\2019.csv"]
+file_paths = ["2015.csv", "2016.csv", "2017.csv", "2018.csv", "2019.csv"]
 data_frames = []
 
 # Load all datasets
